@@ -65,6 +65,9 @@
     "isEntry": true,
     "imports": [
       "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BnXth4cX.css"
     ]
   }
 }
