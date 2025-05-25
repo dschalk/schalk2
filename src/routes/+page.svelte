@@ -22,14 +22,14 @@ import "./style.css"
     <br><br>
     <a href = "https://blog.schalk2.com/">Blog</a>
 
-    <p> The Blog (linked above) contains information and ideas where I can easily access them, for my own investigations and creations, and to share with others. </p>
+    <p> Blog (linked above) is a disorganized collection of miscellaneous ideas. It's online so I can refer to items in it in email exchanges, or during phone conversations. </p>
 
-    <p> Recursive Closures is a work in progress, with nine pages mature enough for publication. They showcase the use of what I call m-M(x) closures. It is written not only for computer progammers, but for anyone who finds them informative and interesting. The virtual Rubik's cube was made with online solving in mind.</p>
+    <p> Recursive Closures is a work in progress, with nine pages mature enough for publication. They showcase the use of what I call m-M(x) closures. It's written for computer progammers, but others might find some of the pages interesting. I tried to make the virtual Rubik's cube easy to rearrange and solve. </p>
 
-    
+
 
 
 </nav>
 
-  <div>"***********************************************************************************************"</div>
+  <div>"*******************************************************************************"</div>
   <slot></slot>
